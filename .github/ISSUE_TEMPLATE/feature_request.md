@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Request new content for Chef Software Open Source Communities repo
+about: Request new features.
 labels: 'Status: Untriaged'
 ---
 

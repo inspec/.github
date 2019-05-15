@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Explain how the Chef Software Open Source Communities documentation is incorrect
+about: You found a bug, detail it here.
 labels: 'Status: Untriaged'
 ---
 

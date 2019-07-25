@@ -1,4 +1,4 @@
-We use GitHub issues to track bugs and feature requests. If you need support help (i.e. with using InSpec), we recommend that if you are a:
+We use GitHub issues to track bugs and feature requests. If you need support help (i.e. with using Chef InSpec), we recommend that if you are a:
 
 * Chef customer:
   * Please reach out to your Customer Success manager and they can assist you
